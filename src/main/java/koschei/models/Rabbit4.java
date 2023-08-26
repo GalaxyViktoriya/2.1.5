@@ -5,7 +5,7 @@ import org.springframework.stereotype.Component;
 
 @Component
 public class Rabbit4 {
-    private Duck5 duck;
+    private  Duck5 duck;
 
     @Override
     public String toString() {
